@@ -1,11 +1,10 @@
 package Day23;
 
-public class Product {
-
-	import java.util.ArrayList;  
+        import java.util.ArrayList;  
 	import java.util.Collections;  
-	import java.util.List;  
-	class Product{  
+	import java.util.List; 
+
+public class Product {  
 	    int id;  
 	    String name;  
 	    float price;  
@@ -34,7 +33,6 @@ public class Product {
 	            System.out.println(p.id+" "+p.name+" "+p.price);  
 	        }  
 	  
-	    }  
-	}  
+	    }   
 	
 }
